@@ -18,3 +18,10 @@ Source: [This paper](https://www.sciencedirect.com/science/article/pii/S00457949
 ## License
 This project is licensed under MIT, a free and open-source license. For more information, please see the
 [license file](https://github.com/vis4rd/cim_project_2022/blob/master/LICENSE.md).
+
+### Datasets:
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.  
+Iris: http://archive.ics.uci.edu/ml/datasets/Iris  
+Seeds: http://archive.ics.uci.edu/ml/datasets/seeds  
+Wine: http://archive.ics.uci.edu/ml/datasets/Wine
